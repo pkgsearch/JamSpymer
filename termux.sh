@@ -1,4 +1,5 @@
 cd
+rm -rf JamSpymer
 pkg update
 pkg upgrade
 pkg install git
